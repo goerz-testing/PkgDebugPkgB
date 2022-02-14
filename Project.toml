@@ -1,0 +1,4 @@
+name = "PkgDebugPkgB"
+uuid = "0964fe9f-8940-4aac-95dd-e092a7137023"
+authors = ["Michael Goerz <goerz@stanford.edu>"]
+version = "0.1.0"
