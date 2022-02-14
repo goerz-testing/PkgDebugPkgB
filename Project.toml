@@ -7,4 +7,4 @@ version = "0.1.0"
 PkgDebugPkgA = "621084bb-f1a1-45e5-9057-22828cfd6aaa"
 
 [compat]
-PkgDebugPkgA = "0.1.0"
+PkgDebugPkgA = "0.1.0, 0.2.0"
